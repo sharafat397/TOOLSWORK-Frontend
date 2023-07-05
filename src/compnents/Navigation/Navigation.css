@@ -1,0 +1,28 @@
+.Nav_color{
+    background: linear-gradient(to right, rgb(248, 58, 58), rgb(252, 130, 9));
+
+}
+.Nav_item{
+    background-color: black;
+    color: white;
+    border-radius: 25px;
+    margin-left: 15px;
+
+   
+}
+.Nav_item:hover{
+    font-weight: bolder;
+    
+}
+.Nav_part{
+    /* padding-right: auto; */
+    background-color: rgb(5, 5, 5);
+    border-radius: 15px;
+    height: 40px;
+    width: 460px;
+    margin-left:20px;
+    
+}
+.Nav_brand{
+    border-radius: 40px;
+}

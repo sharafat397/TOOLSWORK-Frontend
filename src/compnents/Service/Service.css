@@ -1,0 +1,19 @@
+.service{
+    box-shadow: 5px 2px gray;
+    background-color: rgb(212, 189, 233);
+
+}
+.service_btn1:hover{
+    /* color: rgb(139, 178, 211); */
+    font-weight: bolder;
+    border-radius: 40px;
+}
+.btn_update{
+    margin-left: 80px;
+}
+.btn_update:hover{
+    font-weight: bolder;
+}
+.btn_delete:hover{
+    font-weight: bolder;
+}

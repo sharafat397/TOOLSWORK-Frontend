@@ -1,0 +1,10 @@
+.services{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);  
+    overflow: auto;
+    width: 100%;
+    padding-right: 30px;
+    padding-left: 35px;
+    
+    background-color: black;
+}

@@ -1,0 +1,21 @@
+Curosul_img{
+    width: 200px;
+    height: 100px;
+}
+.Caro_background{
+    width: auto;
+    height: 500px;
+    background: linear-gradient(to right, rgb(214, 200, 200), rgb(240, 162, 84));
+}
+.Caro_Title{
+    text-align: center;
+}
+.Caro_Details{
+    width: 600px;
+    margin-left: 140px;
+    margin-top: 150px;
+}
+.Caro_img{
+    margin-top: 70px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px, rgb(51, 51, 51) 0px 0px 0px 3px;
+}
